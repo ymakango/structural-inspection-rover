@@ -1,0 +1,17 @@
+# Arduino build artifacts
+*.hex
+*.elf
+*.bin
+build/
+*.o
+.vscode/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Python (for your colleague's side)
+__pycache__/
+*.pyc
+.venv/
+venv/
